@@ -1,0 +1,4 @@
+1) extract  blynk_release library folder
+2) copy library folder to library folder of arduino
+3) copy tools to tools folder of arduino
+4) in serial monitor we have to select 9600 baud rate
